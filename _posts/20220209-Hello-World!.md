@@ -1,8 +1,7 @@
 ---
 title: Hello, World!
-layout: post
-date: 2022-02-09 14:22 +1100
-categories: chaos
+date: 2022-02-09 14:22:00
+tags: chaos
 ---
 
 This is a test of my fragile updates system as much as anything, but... like it says on the label, hello world!
