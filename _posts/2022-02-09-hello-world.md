@@ -1,6 +1,6 @@
 ---
 title: "Hello, World!"
-date: 2022-02-09 14:22:00
+date: 2022-02-09 14:22:00 +1100
 tags: chaos
 ---
 
