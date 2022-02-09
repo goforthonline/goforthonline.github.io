@@ -2,6 +2,6 @@
 title: Index
 ---
 
-# Main Page
+# Go Forth Online Blog
 
-This is a test!
+This is the development and update blog for my (Kami's) web game, Go Forth Online.
