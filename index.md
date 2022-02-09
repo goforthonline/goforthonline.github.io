@@ -1,5 +1,6 @@
 ---
 title: Index
+
 ---
 
 # Go Forth Online Blog

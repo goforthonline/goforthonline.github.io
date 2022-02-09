@@ -1,6 +1,6 @@
 ---
 title: Hello, World!
-layout: page
+layout: post
 date: 2022-02-09 14:22 +1100
 categories: chaos
 ---
